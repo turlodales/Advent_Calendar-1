@@ -40,14 +40,6 @@ target 'Advent_Calendar' do
   end
 
   use_native_modules!
-end
 
-target 'Advent_Calendar-tvOS' do
-  # Pods for Advent_Calendar-tvOS
-
-  target 'Advent_Calendar-tvOSTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
 
 end
